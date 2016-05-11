@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "system",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false
+  },
+  "files": [
+    "app.ts",
+    "app01.ts",
+    "app-03.ts",
+    "app-04.ts",
+    "node_modules/angular2/ts/typings/node/node.d.ts",
+    "node_modules/angular2/typings/browser.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
